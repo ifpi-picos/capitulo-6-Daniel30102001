@@ -1,3 +1,5 @@
+//questao 5 completa
+
 // Definição da função
 function calcularMedia(num1, num2, num3) {
     // Calcula a média

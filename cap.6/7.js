@@ -1,3 +1,5 @@
+//questao 7 completa
+
 // Variável global
 var mensagemGlobal = "Sou uma variável global";
 

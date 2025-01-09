@@ -1,3 +1,5 @@
+//questao 8 completa
+
 function escopoDeBloco() {
     if (true) {
         let variavelLet = "Eu sou uma variável declarada com let dentro do bloco";

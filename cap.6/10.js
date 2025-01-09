@@ -1,3 +1,5 @@
+//questao 10 completa
+
 // Função para solicitar um número ao usuário
 const solicitarNumero = mensagem => {
     const numero = parseFloat(prompt(mensagem));

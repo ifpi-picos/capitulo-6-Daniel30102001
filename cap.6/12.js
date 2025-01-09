@@ -1,3 +1,5 @@
+//questao 12 completa
+
 // Função para somar dois números
 const adicionar = (num1, num2) => num1 + num2;
 

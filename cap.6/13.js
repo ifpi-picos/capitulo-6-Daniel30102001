@@ -1,3 +1,5 @@
+//questao 13 completa
+
 // Função para solicitar o valor em Real ao usuário
 const solicitarValorEmReal = () => {
     const valorReal = parseFloat(prompt("Digite o valor em Real (BRL) que deseja converter para Dólar (USD):"));

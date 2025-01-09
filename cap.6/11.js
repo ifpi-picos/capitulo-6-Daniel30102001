@@ -1,3 +1,5 @@
+//questao 11 completa
+
 // Função para gerar um número aleatório entre 1 e 100
 const gerarNumeroSecreto = () => Math.floor(Math.random() * 100) + 1;
 

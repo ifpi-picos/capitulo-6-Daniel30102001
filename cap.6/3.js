@@ -1,3 +1,5 @@
+//questao 3 completa
+
 // Função para calcular a média de três números usando funções predefinidas
 
 // Função que calcula a média

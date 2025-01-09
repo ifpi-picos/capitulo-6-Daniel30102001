@@ -1,3 +1,5 @@
+//questao 6 completa
+
 // Definição da função
 function calcularQuadrado(numero) {
     return numero * numero;

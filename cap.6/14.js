@@ -1,3 +1,5 @@
+//questao 14 completa
+
 // Função para solicitar o peso ao usuário
 const solicitarPeso = () => {
     const peso = parseFloat(prompt("Digite seu peso (em kg):"));
